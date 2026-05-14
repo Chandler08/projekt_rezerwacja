@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">systemrezezwacji</string>
+
+    <string-array name="visit_types">
+        <item>Konsultacja</item>
+        <item>Badanie</item>
+        <item>Wyniki</item>
+    </string-array>
+</resources>
